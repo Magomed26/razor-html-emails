@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>8c322d4d-4c39-4850-84fe-67f3278d1c3b</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Emails\ContactEmailPartial.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Emails\_EmailLayout.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Emails\_ViewStart.cshtml" />
+  </ItemGroup>
+</Project>
